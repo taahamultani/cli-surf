@@ -49,3 +49,5 @@ Examples:
     curl localhost:8000?loc=malibu,show_air_temp,show_wind_speed,show_wind_direction
     curl localhost:8000?loc=nazare,json
     curl localhost:8000?loc=gold_coast,gpt,color=yellow
+
+Fork Test
